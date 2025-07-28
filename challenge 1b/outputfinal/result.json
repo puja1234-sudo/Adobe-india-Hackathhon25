@@ -1,0 +1,140 @@
+{
+  "metadata": {
+    "documents": [
+      "file01.pdf",
+      "file02.pdf",
+      "file03.pdf",
+      "file04.pdf",
+      "file05.pdf"
+    ],
+    "persona": {
+      "role": "Investment Analyst",
+      "expertise": "Finance",
+      "focus_areas": "Revenue trends, R&D investments, Market positioning"
+    },
+    "job_to_be_done": "Analyze revenue trends, R&D investments, and market positioning strategies",
+    "timestamp": "2025-07-28T22:35:57"
+  },
+  "sections": [
+    {
+      "heading": "Executive Summary",
+      "content": "This is dummy content under heading: Executive Summary",
+      "source": "input/docs\\file01.pdf",
+      "score": 1.0
+    },
+    {
+      "heading": "Revenue Trends",
+      "content": "This is dummy content under heading: Revenue Trends",
+      "source": "input/docs\\file01.pdf",
+      "score": 1.0
+    },
+    {
+      "heading": "R&D Investments",
+      "content": "This is dummy content under heading: R&D Investments",
+      "source": "input/docs\\file01.pdf",
+      "score": 1.0
+    },
+    {
+      "heading": "Market Positioning",
+      "content": "This is dummy content under heading: Market Positioning",
+      "source": "input/docs\\file01.pdf",
+      "score": 1.0
+    },
+    {
+      "heading": "Executive Summary",
+      "content": "This is dummy content under heading: Executive Summary",
+      "source": "input/docs\\file02.pdf",
+      "score": 1.0
+    },
+    {
+      "heading": "Revenue Trends",
+      "content": "This is dummy content under heading: Revenue Trends",
+      "source": "input/docs\\file02.pdf",
+      "score": 1.0
+    },
+    {
+      "heading": "R&D Investments",
+      "content": "This is dummy content under heading: R&D Investments",
+      "source": "input/docs\\file02.pdf",
+      "score": 1.0
+    },
+    {
+      "heading": "Market Positioning",
+      "content": "This is dummy content under heading: Market Positioning",
+      "source": "input/docs\\file02.pdf",
+      "score": 1.0
+    },
+    {
+      "heading": "Executive Summary",
+      "content": "This is dummy content under heading: Executive Summary",
+      "source": "input/docs\\file03.pdf",
+      "score": 1.0
+    },
+    {
+      "heading": "Revenue Trends",
+      "content": "This is dummy content under heading: Revenue Trends",
+      "source": "input/docs\\file03.pdf",
+      "score": 1.0
+    },
+    {
+      "heading": "R&D Investments",
+      "content": "This is dummy content under heading: R&D Investments",
+      "source": "input/docs\\file03.pdf",
+      "score": 1.0
+    },
+    {
+      "heading": "Market Positioning",
+      "content": "This is dummy content under heading: Market Positioning",
+      "source": "input/docs\\file03.pdf",
+      "score": 1.0
+    },
+    {
+      "heading": "Executive Summary",
+      "content": "This is dummy content under heading: Executive Summary",
+      "source": "input/docs\\file04.pdf",
+      "score": 1.0
+    },
+    {
+      "heading": "Revenue Trends",
+      "content": "This is dummy content under heading: Revenue Trends",
+      "source": "input/docs\\file04.pdf",
+      "score": 1.0
+    },
+    {
+      "heading": "R&D Investments",
+      "content": "This is dummy content under heading: R&D Investments",
+      "source": "input/docs\\file04.pdf",
+      "score": 1.0
+    },
+    {
+      "heading": "Market Positioning",
+      "content": "This is dummy content under heading: Market Positioning",
+      "source": "input/docs\\file04.pdf",
+      "score": 1.0
+    },
+    {
+      "heading": "Executive Summary",
+      "content": "This is dummy content under heading: Executive Summary",
+      "source": "input/docs\\file05.pdf",
+      "score": 1.0
+    },
+    {
+      "heading": "Revenue Trends",
+      "content": "This is dummy content under heading: Revenue Trends",
+      "source": "input/docs\\file05.pdf",
+      "score": 1.0
+    },
+    {
+      "heading": "R&D Investments",
+      "content": "This is dummy content under heading: R&D Investments",
+      "source": "input/docs\\file05.pdf",
+      "score": 1.0
+    },
+    {
+      "heading": "Market Positioning",
+      "content": "This is dummy content under heading: Market Positioning",
+      "source": "input/docs\\file05.pdf",
+      "score": 1.0
+    }
+  ]
+}
