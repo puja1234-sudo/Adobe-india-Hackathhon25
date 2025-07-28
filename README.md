@@ -1,5 +1,5 @@
 
-# 📘 PDF Heading Extractor – Adobe India Hackathon 2025
+# 📘1a) PDF Heading Extractor – Adobe India Hackathon 2025
 
 This project automates the extraction of headings from PDF documents based on font sizes. Designed for the **Adobe India Hackathon**, it identifies headings (H1, H2, H3) by analyzing font properties using `pdfplumber`, and outputs structured JSON for each file.
 
